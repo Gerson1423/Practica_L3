@@ -268,7 +268,12 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
-| Receta adaptada | Búsqueda y localización de recetas que se adecúan al perfil, alergias y restricciones alimentarias declaradas por un paciente, sin que el sistema modifique de forma automática ingredientes o cantidades.  | Acta de captura de requisitos generales | 
+| Receta adaptada | Búsqueda y localización de recetas que se adecúan al perfil, alergias y restricciones alimentarias declaradas por un paciente, sin que el sistema modifique de forma automática ingredientes o cantidades.  | Acta de captura de requisitos generales |
+| Enfermedad Inflamatoria Intestinal (EII) | Conjunto de patologías crónicas del aparato digestivo que padecen los pacientes destinatarios de la plataforma Simbiosis. |  Documento de Visión y Alcance; |
+| Paciente | Persona usuaria registrada en la plataforma que padece EII, con capacidad para consultar y proponer recetas, interactuar en el foro y autorizar el acceso de sus cuidadores a sus datos de salud privados. | Acta de captura de requisitos generales, 1.1, 1.2, 2 |
+|Cuidador | Persona usuaria registrada que asiste a uno o varios pacientes autorizados, accediendo a los datos de salud que estos le hayan permitido explícitamente mientras exista una asociación vigente. |  Acta de captura de requisitos generales, §1.2, §2; Acta de acuerdos técnicos y operativos, §2.2.3 |
+|NutricionistaRol único en la plataforma que agrupa las atribuciones de profesionales médicos y nutricionistas acreditados, responsable de publicar recetas validadas, validar propuestas de usuarios y publicar artículos de salud.   Acta de captura de requisitos generales, §1.3, §3, §5; SRS, §2.2   
+| Coordinador| Rol responsable de administrar y moderar la plataforma, con atribuciones exclusivas para aprobar cuentas de cuidadores y nutricionistas y revisar los reportes de contenido inapropiado. | Acta de captura de requisitos generales, 1.2, 4; Acta de acuerdos técnicos y operativos, §2.3.2, §2.4.1
 
 ## 10. Modelos de análisis
 
