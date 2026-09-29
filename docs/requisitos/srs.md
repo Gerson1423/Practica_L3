@@ -268,6 +268,7 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
+| Receta adaptada | Búsqueda y localización de recetas que se adecúan al perfil, alergias y restricciones alimentarias declaradas por un paciente, sin que el sistema modifique de forma automática ingredientes o cantidades.  | Acta de captura de requisitos generales | 
 
 ## 10. Modelos de análisis
 
